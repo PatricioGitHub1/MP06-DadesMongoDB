@@ -1,0 +1,29 @@
+Entity Detected: one 8 95 - 200 - Entity Type: NUMBER
+Entity Detected: three - Entity Type: NUMBER
+Entity Detected: a day - Entity Type: DURATION
+Entity Detected: 300 600 - Entity Type: NUMBER
+Entity Detected: general - Entity Type: TITLE
+Entity Detected: 10 - Entity Type: NUMBER
+Entity Detected: french - Entity Type: NATIONALITY
+Entity Detected: 4 minutes - Entity Type: DURATION
+Entity Detected: years - Entity Type: DURATION
+Entity Detected: 2 3 - Entity Type: NUMBER
+Entity Detected: once - Entity Type: DATE
+Entity Detected: grinder - Entity Type: TITLE
+Entity Detected: 1/2 one - Entity Type: NUMBER
+Entity Detected: years ago - Entity Type: DATE
+Entity Detected: recently - Entity Type: DATE
+Entity Detected: three - Entity Type: NUMBER
+Entity Detected: two - Entity Type: NUMBER
+Entity Detected: Coffee - Maker - Entity Type: TITLE
+Entity Detected: recently - Entity Type: DATE
+Entity Detected: coffee - maker - Entity Type: TITLE
+Entity Detected: first - Entity Type: ORDINAL
+Entity Detected: </em> - Entity Type: NUMBER
+Entity Detected: coffee - maker - Entity Type: TITLE
+Entity Detected: now - Entity Type: DATE
+Entity Detected: two - Entity Type: NUMBER
+Entity Detected: coffee - maker - Entity Type: TITLE
+Entity Detected: coffee - maker - Entity Type: TITLE
+Entity Detected: coffee - maker - Entity Type: TITLE
+
