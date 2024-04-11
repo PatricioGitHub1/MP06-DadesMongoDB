@@ -4,7 +4,21 @@
             <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>
         </encoder>
     </appender>
+    <!-- Appender para archivo -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">                                                                                                                                                              
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">                                                                                                                                                                
+                                                                                                                                                                                                              
+          <fileNamePattern>data/logs/PR32CreateMain.java.log</fileNamePattern>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+        </rollingPolicy>                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                  
+        <encoder>                                                                                                                                                                                                                                 
+          <pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n</pattern>                                                                                                                                                             
+        </encoder>                                                                                                                                                                                                                                
+      </appender>
+
+    <!-- Configuración de nivel de log para la raíz y asignación de appenders -->
     <root level="info">
         <appender-ref ref="console" />
+        <appender-ref ref="FILE" />
     </root>
 </configuration>

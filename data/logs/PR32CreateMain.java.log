@@ -1,0 +1,254 @@
+abr 09, 2024 6:41:08 P. M. cat.iesesteveterradas.PR32CreateMain main
+INFORMACIÓN: Starting xquery to extract Data
+abr 09, 2024 6:41:08 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Connected to BaseX server.
+abr 09, 2024 6:41:08 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Query executed, closing session
+abr 09, 2024 6:41:12 P. M. cat.iesesteveterradas.PR32CreateMain getDataFromResult
+INFORMACIÓN: All documents where inserted succesfully
+abr 11, 2024 3:37:39 P. M. cat.iesesteveterradas.PR32CreateMain main
+INFORMACIÓN: Starting xquery to extract Data
+abr 11, 2024 3:37:40 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Connected to BaseX server.
+abr 11, 2024 3:37:41 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Query executed, closing session
+abr 11, 2024 3:37:47 P. M. cat.iesesteveterradas.PR32CreateMain getDataFromResult
+INFORMACIÓN: All documents where inserted succesfully
+abr 11, 2024 3:50:22 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 3:52:41 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 3:57:55 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 3:59:11 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 4:00:40 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 4:01:08 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 4:02:21 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:00:20 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:00:20 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:00:44 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:00:44 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:03:39 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:03:39 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:04:31 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:04:31 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:07:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:07:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:13:04 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:13:04 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:13:44 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:13:44 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:14:05 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:14:05 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:14:36 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:14:36 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:15:28 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:15:28 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:16:13 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:16:13 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:16:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:16:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:16:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:32:30 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:32:30 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:32:30 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:32:30 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: Average Viewcount: 3432.9638964577657
+abr 11, 2024 5:32:30 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:34:36 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:34:36 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:34:36 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:34:36 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: Average Viewcount: 3432.9638964577657
+abr 11, 2024 5:34:36 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:35:07 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:35:07 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:35:07 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:35:08 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: Average Viewcount: 3432.9638964577657
+abr 11, 2024 5:35:08 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:42:37 P. M. cat.iesesteveterradas.PR32CreateMain main
+INFORMACIÓN: Starting xquery to extract Data
+abr 11, 2024 5:42:37 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Connected to BaseX server.
+abr 11, 2024 5:42:37 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Query executed, closing session
+abr 11, 2024 5:42:42 P. M. cat.iesesteveterradas.PR32CreateMain getDataFromResult
+INFORMACIÓN: All documents where inserted succesfully
+abr 11, 2024 5:46:54 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:46:54 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:46:55 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:47:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:47:29 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:47:30 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:48:24 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:48:24 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:48:25 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:48:25 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:49:09 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:49:09 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:49:09 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:49:09 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:50:44 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:50:44 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:50:45 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:50:45 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:51:05 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:51:05 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:51:06 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:51:06 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:58:28 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:58:28 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:58:28 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:58:28 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:58:45 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:58:45 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:58:45 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:58:45 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 5:59:37 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 5:59:37 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 5:59:38 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 5:59:38 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:08:01 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:08:01 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:08:02 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:08:02 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:12:02 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:12:02 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:12:02 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:12:02 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:14:17 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:14:17 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:14:17 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:14:18 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:15:40 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:15:40 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:15:40 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:15:40 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:16:03 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:16:03 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:16:03 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:16:03 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:18:49 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:18:49 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:18:49 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:18:49 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
+abr 11, 2024 6:20:51 P. M. cat.iesesteveterradas.PR32CreateMain main
+INFORMACIÓN: Starting xquery to extract Data
+abr 11, 2024 6:20:51 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Connected to BaseX server.
+abr 11, 2024 6:20:51 P. M. cat.iesesteveterradas.PR32CreateMain getXqueryResult
+INFORMACIÓN: Query executed, closing session
+abr 11, 2024 6:20:55 P. M. cat.iesesteveterradas.PR32CreateMain getDataFromResult
+INFORMACIÓN: All documents where inserted succesfully
+abr 11, 2024 6:21:15 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Establishing connection to MongoDB...
+abr 11, 2024 6:21:15 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Extracting data from MongoDB...
+abr 11, 2024 6:21:15 P. M. cat.iesesteveterradas.PR32QueryMain getAvgViewCount
+INFORMACIÓN: The number of documents in the collection: 1468
+abr 11, 2024 6:21:15 P. M. cat.iesesteveterradas.PR32QueryMain saveResultPDF
+INFORMACIÓN: PDF creat a: /home/patricio/Documentos/MP06_A21/UF3/DAM2-MP06-UF03-Base/data/out/informe1.pdf
+abr 11, 2024 6:21:15 P. M. cat.iesesteveterradas.PR32QueryMain saveResultPDF
+INFORMACIÓN: PDF creat a: /home/patricio/Documentos/MP06_A21/UF3/DAM2-MP06-UF03-Base/data/out/informe2.pdf
+abr 11, 2024 6:21:15 P. M. cat.iesesteveterradas.PR32QueryMain main
+INFORMACIÓN: Ending mongoDB operations
